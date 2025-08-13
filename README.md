@@ -59,7 +59,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/Ryan110781/Ryan110781/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/Ryan110781/Ryan110781/output/github-contribution-grid-snake.svg)
 
 </div>
 
