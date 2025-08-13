@@ -2,8 +2,6 @@
   
 # 你好 👋, 我是 Ryan
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ryan110781&color=brightgreen)
-
 </div>
 
 ## 👨‍💻 關於我
