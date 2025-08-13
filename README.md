@@ -57,14 +57,6 @@
 
 </div>
 
-## 💻 編碼時間統計
-
-<div align="center">
-  
-[![Ryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ryan110781&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 ## 🐍 貢獻圖表動畫
 
 <div align="center">
