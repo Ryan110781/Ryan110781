@@ -45,7 +45,7 @@
 
 <div align="center">
   
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ryan110781&theme=tokyo-night)
+[![Ryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan110781&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -79,6 +79,6 @@
   
 ### 訪客計數 👀
   
-![Visitor Count](https://profile-counter.glitch.me/Ryan110781/count.svg)
+![](https://komarev.com/ghpvc/?username=Ryan110781&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
